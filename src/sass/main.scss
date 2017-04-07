@@ -1,0 +1,51 @@
+@import 'uikit';
+
+.pagesection {
+	margin-bottom: uikit-space( 3 );
+}
+
+main + footer {
+	margin-top: uikit-space( 3 );
+}
+
+.uikit-header {
+	margin-bottom: uikit-space( 3 );
+}
+
+.uikit-header-subline {
+	display: block;
+	max-width: 27em;
+}
+
+.content-box {
+	margin-bottom: uikit-space( 1 );
+}
+
+
+a.card {
+	display: block;
+	border-radius: $uikit-border-radius;
+	border: $uikit-borderize;
+	background-color: $uikit-colour-Background;
+	margin-bottom: uikit-space( 2 );
+
+	&:hover .uikit-cta-link {
+		&:after {
+			margin: 0 uikit-space( 0.1 ) 0 uikit-space( 0.4 );
+		}
+	}
+
+	.card__top {
+		display: block;
+		padding: uikit-space( 0.5 );
+	}
+
+	.uikit-cta-link {
+		display: block;
+		background-color: #fff;
+		margin-bottom: 0;
+		padding: uikit-space( 0.5 );
+		border-bottom-right-radius: $uikit-border-radius;
+		border-bottom-left-radius: $uikit-border-radius;
+	}
+}
