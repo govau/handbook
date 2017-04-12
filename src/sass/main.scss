@@ -22,7 +22,7 @@ main + footer {
 }
 
 
-a.card {
+.card {
 	display: block;
 	border-radius: $uikit-border-radius;
 	border: $uikit-borderize;
@@ -64,4 +64,16 @@ a.card {
 
 .heroline{
 	padding-bottom: 20px;
+}
+
+.badge {
+    background-color: $uikit-colour-Info;
+    border-radius: 12px;
+    padding: 0.4em 0.8em;
+    margin-left: 10px;
+    position: relative;
+    top: -4px;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 0.6rem;
 }
