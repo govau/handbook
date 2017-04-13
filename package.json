@@ -21,12 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/govau/guides.git"
+    "url": "https://github.com/govau/handbook.git"
   },
-  "homepage": "https://github.com/govau/guides",
+  "homepage": "https://govau.github.io/handbook/site/",
   "bugs": {
-    "url": "https://github.com/govau/guides/issues",
-    "email": "guides@digital.gov.au"
+    "url": "https://github.com/govau/handbook/issues"
   },
   "author": {
     "name": "Commonwealth of Australia, DTA",
