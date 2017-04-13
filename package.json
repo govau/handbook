@@ -10,8 +10,8 @@
     "build": "node-sass src/sass/main.scss site/css/main.css --output-style compressed",
     "watch:sass": "npm run build && onchange 'src/sass/*.scss' 'tests/site/*.scss' -- npm run build",
     "serve": "browser-sync -c bs-config.js start",
+    "test-serve": "browser-sync -c bs-config.js start --no-open",
     "watch": "npm-run-all --parallel serve watch:*",
-    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "devDependencies": {
     "@gov.au/breadcrumbs": "^0.1.0",
@@ -20,7 +20,8 @@
     "browser-sync": "^2.18.8",
     "node-sass": "^4.5.1",
     "npm-run-all": "^4.0.2",
-    "onchange": "^3.2.1"
+    "onchange": "^3.2.1",
+    "blc": "^0.0.5"
   },
   "repository": {
     "type": "git",
