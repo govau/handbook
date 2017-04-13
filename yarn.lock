@@ -9,6 +9,14 @@
     "@gov.au/core" "^0.1.0"
     "@gov.au/pancake" "~1"
 
+"@gov.au/breadcrumbs@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@gov.au/breadcrumbs/-/breadcrumbs-0.1.0.tgz#428ca5b6ca05bdf98b3dc917ded1ed50fc0397c6"
+  dependencies:
+    "@gov.au/core" "^0.1.0"
+    "@gov.au/link-list" "^0.1.0"
+    "@gov.au/pancake" "~1"
+
 "@gov.au/core@^0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@gov.au/core/-/core-0.1.0.tgz#7227dfd7414e8f5e99c3c2fea2a0c64170d27cf1"
@@ -20,6 +28,14 @@
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@gov.au/cta-link/-/cta-link-0.1.0.tgz#f8e98a99d707c91dea77db85d86cda6930027e05"
   dependencies:
+    "@gov.au/core" "^0.1.0"
+    "@gov.au/pancake" "~1"
+
+"@gov.au/direction-links@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@gov.au/direction-links/-/direction-links-0.1.0.tgz#8a0e0d869bbd0236cfbe75d44c97094cbce995a6"
+  dependencies:
+    "@gov.au/body" "^0.1.0"
     "@gov.au/core" "^0.1.0"
     "@gov.au/pancake" "~1"
 
@@ -64,6 +80,13 @@
   resolved "https://registry.yarnpkg.com/@gov.au/link-list/-/link-list-0.1.0.tgz#e315dd4ad4ec30f69931cfb84d86047e63b1d0c0"
   dependencies:
     "@gov.au/body" "^0.1.0"
+    "@gov.au/core" "^0.1.0"
+    "@gov.au/pancake" "~1"
+
+"@gov.au/page-alerts@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@gov.au/page-alerts/-/page-alerts-0.1.1.tgz#b5f56121b4474e4f11a19d80c41b658a32ab0584"
+  dependencies:
     "@gov.au/core" "^0.1.0"
     "@gov.au/pancake" "~1"
 
