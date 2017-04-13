@@ -38,6 +38,7 @@ main + footer {
 	.card__top {
 		display: block;
 		padding: uikit-space( 0.5 );
+		min-height: 60px;
 	}
 
 	.uikit-cta-link {
