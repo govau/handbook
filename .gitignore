@@ -7,3 +7,5 @@ _site
 /.asset-cache/*
 /_vendor/*
 /node_modules/*
+site
+*.log

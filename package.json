@@ -7,7 +7,7 @@
     "npm": ">=3.0.0"
   },
   "scripts": {
-    "build": "node-sass src/sass/main.scss site/css/main.css --output-style compressed",
+    "build": "node-sass src/sass/main.scss css/main.css --output-style compressed",
     "watch:sass": "npm run build && onchange 'src/sass/*.scss' 'tests/site/*.scss' -- npm run build",
     "serve": "browser-sync -c bs-config.js start",
     "test-serve": "browser-sync -c bs-config.js start --no-open",
@@ -27,7 +27,7 @@
     "type": "git",
     "url": "https://github.com/govau/handbook.git"
   },
-  "homepage": "https://govau.github.io/handbook/site/",
+  "homepage": "https://govau.github.io/handbook",
   "bugs": {
     "url": "https://github.com/govau/handbook/issues"
   },

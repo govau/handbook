@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: DTA Technology Handbook
 description: DTA Technology Handbook
-baseurl: "/handbook/site" # the subpath of your site, e.g. /blog
+baseurl: "/handbook" # the subpath of your site, e.g. /blog
 url: "https://govau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -33,3 +33,4 @@ exclude:
   - yarn.lock
   - test.sh
   - LICENSE
+  - README

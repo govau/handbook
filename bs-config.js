@@ -18,9 +18,9 @@ module.exports = {
     baseDir: 'app',
     //Route paths are not relative to the base directory
     routes: {
-      '/handbook/site/': 'site/',
+      '/handbook/': 'site/',
     }
   },
-  "startPath": "/handbook/site/"
+  "startPath": "/handbook/"
 
 };

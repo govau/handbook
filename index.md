@@ -40,7 +40,7 @@ subline: "If you're a new technologist at the Digital Transformation Agency, or 
           </a>
         </div>
         <div class="col-sm-4">
-          <a href="/handbook/site/things" class="card">
+          <a href="/handbook/things" class="card">
             <span class="uikit-cta-link">
               Things you should know
             </span>

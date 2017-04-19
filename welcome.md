@@ -8,7 +8,7 @@ subline: "We're glad you've chosen to stay"
 {% raw %}
 <nav class="uikit-breadcrumbs" aria-label="breadcrumb">
   <ul class="uikit-link-list uikit-link-list--inline">
-    <li><a href="/handbook/site/">Home</a></li>
+    <li><a href="/handbook/">Home</a></li>
     <li>Welcome aboard!</li>
   </ul>
 </nav>
@@ -39,4 +39,4 @@ We can't help each other if we don't trust each other.
 
 Now that's out of the way, let's have some fun.
 
-{% include back.html href="/handbook/site/"%}
+{% include back.html href="/handbook/"%}
