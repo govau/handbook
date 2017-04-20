@@ -9,7 +9,7 @@ subline: "Things you should know"
 
 <nav class="uikit-breadcrumbs" aria-label="breadcrumb">
   <ul class="uikit-link-list uikit-link-list--inline">
-    <li><a href="/handbook">Home</a></li>
+    <li><a href="/handbook/">Home</a></li>
     <li>Things you should know</li>
   </ul>
 </nav>
