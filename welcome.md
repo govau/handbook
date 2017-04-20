@@ -17,7 +17,7 @@ subline: "We're glad you've chosen to stay"
 
 # Welcome!
 
-Thanks for your interest in joining the DTA technology community! It's not perfect, but it's a great place to make a difference.</p>
+Thanks for your interest in joining the DTA technology community! It's not perfect, but it's a great place to make a difference.
 
 We go to lots of effort to recruit the best talent we can find to help us deliver good public services. We want people who do their jobs well and who know how to be part of high-performing teams.
 
