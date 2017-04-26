@@ -12,7 +12,7 @@ subline: "If you're a new technologist at the Digital Transformation Agency, or 
       <div class="uikit-page-alerts uikit-page-alerts--warning" role="alert">
         <h3 class="uikit-display-3">What this isn't</h3>
         <p>A government publication on your obligations for public performance and accountability. But we'll need to touch on it ¯\_(ツ)_/¯</p>
-        <p>It's not a how-to guide for working at the DTA either. You won't learn how to take leave, catch an uber, or how to set up slack. We have an intranet for that.</p>
+        <p>It's not a how-to guide for working at the DTA either. You won't learn how to take leave, catch an uber, or how to set up email. <a href="http://intranet.digital.gov.au/">We have an intranet for that</a>.</p>
       </div>
 
       <div class="uikit-page-alerts uikit-page-alerts--success" role="alert">
