@@ -1,4 +1,4 @@
-/*! PANCAKE v1.0.14 PANCAKE-SASS v1.0.9 */
+/*! PANCAKE v1.0.15 PANCAKE-SASS v1.0.10 */
 
 @import "/Users/alastair/dta/tech/handbook/node_modules/sass-versioning/dist/_index.scss";
 
@@ -14,5 +14,6 @@
 @import "/Users/alastair/dta/tech/handbook/node_modules/@gov.au/headings/lib/sass/_module.scss";
 @import "/Users/alastair/dta/tech/handbook/node_modules/@gov.au/inpage-nav/lib/sass/_module.scss";
 @import "/Users/alastair/dta/tech/handbook/node_modules/@gov.au/page-alerts/lib/sass/_module.scss";
+@import "/Users/alastair/dta/tech/handbook/node_modules/@gov.au/responsive-media/lib/sass/_module.scss";
 
 @include versioning-check();

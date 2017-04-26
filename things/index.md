@@ -75,14 +75,14 @@ subline: "Things you should know"
       </div>
 
       <div class="col-sm-4">
-        <div class="card">
+        <a href="tech_we_use.html" class="card">
           <span class="uikit-cta-link">
-            Tech we use<span class="badge">coming&nbsp;soon</span>
+            Tech we use
           </span>
           <span class="card__top">
             We have all agreed on this stack, and everybody loves it. We never argue.
           </span>
-        </div>
+        </a>
       </div>
     </div>
 
