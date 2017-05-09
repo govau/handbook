@@ -19,7 +19,7 @@ subline: "We're glad you've chosen to stay"
 
 Thanks for your interest in joining the DTA technology community! It's not perfect, but it's a great place to make a difference.
 
-We go to lots of effort to recruit the best talent we can find to help us deliver good public services. We want people who do their jobs well and who know how to be part of high-performing teams.
+We go to lots of effort to recruit great talent so we can deliver good public services. We want people who do their jobs well and who know how to be part of high-performing teams.
 
 You're here because you've shown us that you're passionate about using technology to solve hard problems. And we think you're pretty good at it.
 
@@ -31,7 +31,7 @@ Trust.
 
 You need to trust that we know what we're doing - mostly. That we've done this before, and we know that it works. This doesn't mean that we're perfect, because we're not. We're always happy to hear suggestions about how we can improve, but give what we're doing a shot first.
 
-We also need to trust you. Which we do. You've shown us that you're clever and capable and we're relying on you to do the best that you can, with what you've got. You're free to make a lot of decisions based on what you think is best.
+We also need to trust you. Which we do. You've shown us that you're clever and capable. We're relying on you to do the best that you can, with what you've got. You're free to make a lot of decisions based on what you think is best.
 
 Don't worry if you make a mistake, but don't try to hide it either.
 
