@@ -17,13 +17,25 @@ subline: "If you're a new technologist at the Digital Transformation Agency, or 
 
       <div class="uikit-page-alerts uikit-page-alerts--success" role="alert">
         <h3 class="uikit-inpage-nav-section uikit-display-3">What this is</h3>
-        <p>It's a guide - a friendly introduction to the DTA: a challenging, but very rewarding way to spend your time.</p>
+        <p>It's a guide - a friendly introduction to the DTA: a challenging, but rewarding way to spend your time.</p>
         <p>Specifically, it's a guide for technologists.</p>
-        <p>It contains the things we feel are important for you to know and answers some questions we had when joining. It doesn't matter if you've worked in government before or this is your first time, we think there will be something in here for you.</p>
-        <p>The DTA is different, probably different to anything you've done before. Hopefully, this guide will help you stay afloat during your first couple of weeks.</p>
+        <p>It contains the main things we think you should know, and answers some questions we had when joining. It doesn't matter if you've worked in government before or this is your first time. We think there will be something in here for you.</p>
+        <p>The DTA is different, probably different to anything you've done before. This guide will help you stay afloat during your first couple of weeks.</p>
         <p>But it's only a guide. If you have any questions that we haven't answered, reach out.</p>
 
       </div>
+      
+      <div class="uikit-page-alerts uikit-page-alerts--info" role="alert">
+        <h3 class="uikit-inpage-nav-section uikit-display-3">Conventions</h3>
+        <p>Throughout the handbook, we use the following conventions:</p>
+        <ul>
+            <li>'<b>@..</b>' : Someone's slack username, or a slack command</li>
+            <li>'<b>#..</b>' : The name of a slack channel</li>
+            <li>'<b>$..</b>' : Bash or sh commands</li>
+         </ul>
+
+      </div>
+      
     </section>
     <h1>Contents</h1>
     <section class="pagesection">
