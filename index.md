@@ -29,9 +29,10 @@ subline: "If you're a new technologist at the Digital Transformation Agency, or 
         <h3 class="uikit-inpage-nav-section uikit-display-3">Conventions</h3>
         <p>Throughout the handbook, we use the following conventions:</p>
         <ul>
-            <li>'<b>@..</b>' : Someone's slack username, or a slack command</li>
-            <li>'<b>#..</b>' : The name of a slack channel</li>
-            <li>'<b>$..</b>' : Bash or sh commands</li>
+            <li><b>@</b>...  Someone's slack username, or a slack command</li>
+            <li><b>#</b>...  The name of a slack channel</li>
+            <li><b>:</b> ... <b>:</b>  A slack emoji</li>
+            <li><b>$</b>...  Bash or sh commands</li>
          </ul>
 
       </div>

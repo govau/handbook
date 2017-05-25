@@ -22,17 +22,24 @@ Before you can get cracking, there are a few things that you should sort out.
 
 ### 1. Join the #tech channel in slack
 
-#tech is where your technology colleagues hang out. If you've got questions about anything tech related at the DTA, you should ask them here.
+**\#tech** is where your technology colleagues hang out. You should ask any tech related questions here.
 
-If you're comfortable, give a **:wave:** and say hello.
+If you're comfortable, give a **:wave:**,  say hello and introduce yourself.
 
 We have other channels for more specific technology conversations. Checkout #backend, #frontend, #secops and #cloud-gov-au if those communities interest you.
 
-### 2. Get setup with github
+### 2. Get setup with GitHub
 
-If you don't have a github account, or don't want to use your personal one, you'll need to create a new one.
+We use GitHub.
 
-Let {{ site.hot }} know when you've got an account, and you'll get added to our github organisation.
+A lot.
 
+It's fine if you want to use your personal account, but your name will be attached to the work you do. You can create a new account if you like to keep work and life separate.
+
+Let {{ site.hot }} know your account details and you'll get added to our GitHub organisation.
+
+### 3. Learn about how we work
+
+The **\#standard** team run sessions introducing people to the DSS. It's a good idea to attend one.
 
 {% include back.html href="/handbook/"%}
