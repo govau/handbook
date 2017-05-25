@@ -20,6 +20,12 @@ Take a deep breath, you've made it.
 
 Before you can get cracking, there are a few things that you should sort out.
 
+### 0. Bring your own device
+
+You can use your own laptop at the DTA. We will give you one if you don't want to use your own.
+
+Most of the people in technology use macbooks, but you can use whatever you like.
+
 ### 1. Join the #tech channel in slack
 
 **\#tech** is where your technology colleagues hang out. You should ask any tech related questions here.
