@@ -2,7 +2,7 @@
 layout: base
 title: DTA Technology Handbook
 section: things
-subline: "Things you should know"
+subline: "Things to know"
 ---
 
 {% raw %}
@@ -10,7 +10,7 @@ subline: "Things you should know"
 <nav class="uikit-breadcrumbs" aria-label="breadcrumb">
   <ul class="uikit-link-list uikit-link-list--inline">
     <li><a href="/handbook/">Home</a></li>
-    <li>Things you should know</li>
+    <li>Things to know</li>
   </ul>
 </nav>
 

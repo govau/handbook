@@ -17,6 +17,8 @@ title: DTA Technology Handbook
 description: DTA Technology Handbook
 baseurl: "/handbook" # the subpath of your site, e.g. /blog
 url: "https://govau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+hot: "@Alastair"
+
 
 # Build settings
 destination: site

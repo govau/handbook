@@ -12,7 +12,7 @@ subline: "If you're a new technologist at the Digital Transformation Agency, or 
       <div class="uikit-page-alerts uikit-page-alerts--warning" role="alert">
         <h3 class="uikit-display-3">What this isn't</h3>
         <p>A government publication on your obligations for public performance and accountability. But we'll need to touch on it ¯\_(ツ)_/¯</p>
-        <p>It's not a how-to guide for working at the DTA either. You won't learn how to take leave, catch an uber, or how to set up email. <a href="http://intranet.digital.gov.au/">We have an intranet for that</a>.</p>
+        <p>It's not a how-to guide for working at the DTA either. You won't learn how to take leave, or catch an uber. <a href="http://intranet.digital.gov.au/">We have an intranet for that</a>.</p>
       </div>
 
       <div class="uikit-page-alerts uikit-page-alerts--success" role="alert">
@@ -42,7 +42,7 @@ subline: "If you're a new technologist at the Digital Transformation Agency, or 
         <div class="col-sm-4">
           <a href="/handbook/things" class="card">
             <span class="uikit-cta-link">
-              Things you should know
+              Things to know
             </span>
             <span class="card__top">
               Read this, if nothing else
@@ -52,14 +52,14 @@ subline: "If you're a new technologist at the Digital Transformation Agency, or 
       </div>
       <div class="row">
         <div class="col-sm-4">
-          <span class="card">
+          <a href="first_day.html" class="card">
             <span class="uikit-cta-link">
-              Your first day<span class="badge">coming&nbsp;soon</span>
+              Your first day
             </span>
             <span class="card__top">
               Things to do first
             </span>
-          </span>
+          </a>
         </div>
         <div class="col-sm-4">
           <span class="card">

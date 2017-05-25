@@ -11,7 +11,7 @@ subsubline: "We have all agreed on this stack, and everybody loves it. We never 
 <nav class="uikit-breadcrumbs" aria-label="breadcrumb">
   <ul class="uikit-link-list uikit-link-list--inline">
     <li><a href="/handbook">Home</a></li>
-    <li><a href="/handbook/things/">Things you should know</a></li>
+    <li><a href="/handbook/things/">Things to know</a></li>
     <li>Tech we use</li>
   </ul>
 </nav>

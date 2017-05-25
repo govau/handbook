@@ -11,7 +11,7 @@ subsubline: "Some things we can change, others we can't. Here are the facts we'r
 <nav class="uikit-breadcrumbs" aria-label="breadcrumb">
   <ul class="uikit-link-list uikit-link-list--inline">
     <li><a href="/handbook">Home</a></li>
-    <li><a href="/handbook/things/">Things you should know</a></li>
+    <li><a href="/handbook/things/">Things to know</a></li>
     <li>Facts that matter</li>
   </ul>
 </nav>
