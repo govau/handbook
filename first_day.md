@@ -26,7 +26,13 @@ Before you can get cracking, there are a few things that you should sort out.
 
 If you're comfortable, give a **:wave:**,  say hello and introduce yourself.
 
-We have other channels for more specific technology conversations. Checkout #backend, #frontend, #secops and #cloud-gov-au if those communities interest you.
+We have other channels for more specific technology conversations. 
+Checkout:
+* **#backend**
+* **#frontend**
+* **#secops**
+* **#cloud-gov-au**
+
 
 ### 2. Get setup with GitHub
 
@@ -40,6 +46,12 @@ Let {{ site.hot }} know your account details and you'll get added to our GitHub 
 
 ### 3. Learn about how we work
 
-The **\#standard** team run sessions introducing people to the DSS. It's a good idea to attend one.
+The DTA has developed the [Digital Service Standard](https://www.dta.gov.au/standard/) (DSS). It's a common rallying point we use to make government services better. Spend some time reading through it.
+
+We have also developed a [Service Design and Delivery process](https://www.dta.gov.au/standard/service-design-and-delivery-process/). It breaks down delivering services into four distinct phases. It's important that you understand what these are.
+
+To get a better feel for how it all works, you can read some completed DSS [Assessment reports](https://www.dta.gov.au/standard/assessments/).
+
+The **\#standard** team run sessions introducing people to the DSS. They are usually announced in **#events**, it's a good idea to attend one
 
 {% include back.html href="/handbook/"%}
