@@ -41,14 +41,14 @@ subline: "Things to know"
   </div>
   <div class="row">
     <div class="col-sm-4">
-      <div class="card">
+      <a href="who_we_are" class="card">
         <span class="uikit-cta-link">
-          Who we are<span class="badge">coming&nbsp;soon</span>
+          Who we are
         </span>
         <span class="card__top">
           We're technologists in government. Here's how we structure ourselves.
         </span>
-      </div>
+      </a>
     </div>
 
     <div class="col-sm-4">
